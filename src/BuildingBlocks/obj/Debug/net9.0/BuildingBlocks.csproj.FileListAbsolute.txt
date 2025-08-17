@@ -1,0 +1,6 @@
+/workspace/src/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.csproj.AssemblyReference.cache
+/workspace/src/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/src/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.AssemblyInfoInputs.cache
+/workspace/src/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.AssemblyInfo.cs
+/workspace/src/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.csproj.CoreCompileInputs.cache
+/workspace/src/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.sourcelink.json
