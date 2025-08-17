@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "OU6XPpHnt/o=",
+  "success": true,
+  "projectFilePath": "/workspace/src/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/home/ubuntu/.nuget/packages/ardalis.result/9.0.0/ardalis.result.9.0.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/ardalis.smartenum/8.2.0/ardalis.smartenum.8.2.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/ardalis.specification/8.0.0/ardalis.specification.8.0.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.2/fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/mapster/7.4.0/mapster.7.4.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/mapster.core/1.2.1/mapster.core.1.2.1.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.visualstudio.threading.analyzers/17.13.61/microsoft.visualstudio.threading.analyzers.17.13.61.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/stylecop.analyzers/1.2.0-beta.435/stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/stylecop.analyzers.unstable/1.2.0.435/stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

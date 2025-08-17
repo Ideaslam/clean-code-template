@@ -1,0 +1,6 @@
+/workspace/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.csproj.AssemblyReference.cache
+/workspace/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.AssemblyInfoInputs.cache
+/workspace/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.AssemblyInfo.cs
+/workspace/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+/workspace/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.sourcelink.json

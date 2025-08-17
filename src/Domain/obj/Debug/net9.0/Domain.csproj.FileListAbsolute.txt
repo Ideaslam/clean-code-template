@@ -1,0 +1,6 @@
+/workspace/src/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/src/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/workspace/src/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/workspace/src/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/workspace/src/Domain/obj/Debug/net9.0/Domain.sourcelink.json
+/workspace/src/Domain/obj/Debug/net9.0/Domain.xml
